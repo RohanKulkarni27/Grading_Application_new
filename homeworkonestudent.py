@@ -1,0 +1,6 @@
+aaa = input(a)
+bbb = input(b)
+ccc = input(c)
+ddd = input(d)
+eee = input(e)
+print(abcde)
